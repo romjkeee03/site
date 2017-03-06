@@ -1,0 +1,54 @@
+body {
+    margin:10px; 
+	padding:5px;	
+	background:url(25.jpg); no-repeat; background-size:cover;	
+}
+.header {
+	color:lime;
+	font-size:35pt;
+	position:absolute;
+	top:0px;
+	left:490px;
+	right:0px;
+}
+.nice{
+	left:900px;
+	top:350px;
+	width:400px;
+	height:400px;
+	border:0px;;
+	position:absolute;
+	background:url(t-fest.jpg) no-repeat; background-size:cover;
+	
+}
+.down {
+	float:right;
+    left:900px;
+	top:800px;
+	width:500px;
+	height:400px;
+	border:0px;
+	position:absolute;
+	background:url(festik.jpg) no-repeat; background-size:cover;
+}
+.hight {
+	border:0px;
+	width:450px;
+	height:250px;
+	left:850px;
+	position:absolute;
+	top:75px;
+	background:url(fest.jpg); no-repeat; background-size:cover;
+}
+.videosos {
+	position:absolute;
+	top:1225px;
+	right:40px;
+}
+.texot {
+	font-size:17pt;
+	position:absolute;
+	color:white;
+	top:100px;
+	left:150px;
+}

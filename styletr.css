@@ -1,0 +1,52 @@
+body {
+	margin:10px; 
+	padding:5px;	
+	background:url(21.jpg); no-repeat; background-size:cover;
+}
+.header {
+	color:lime;
+	font-size:35pt;
+	position:absolute;
+	top:0px;
+	left:420px;
+	right:0px;
+}
+.fotka2 {
+	width:400px;
+	height:200px;
+	left:900px;
+	position:absolute;
+	top:75px;
+	border:0px;
+	background:url(rollingstoner.jpg); no-repeat; background-size:cover;
+}
+.fotka {
+	left:825px;
+	top:850px;
+	width:500px;
+	height:400px;
+	position:absolute;
+	border:0px;
+	background:url(mraz.jpg); background-size:cover; no repeat;
+}
+.fotka3 {
+	left:825px;
+	top:350px;
+	width:500px;
+	height:400px;
+	position:absolute;
+	border:0px;
+	background:url(2mraz.jpg); background-size:cover; no repeat;
+}
+.clip {
+	position:absolute;
+	top:1300px;
+	right:40px;
+}
+.textmr {
+	font-size:17pt;
+	position:absolute;
+	color:white;
+	top:150px;
+	left:150px;
+}

@@ -1,0 +1,60 @@
+body {
+	margin:10px; 
+	padding:5px;	
+	background:url(for.jpg); no-repeat; background-size:cover;
+	
+}
+.header {
+	color:black;
+	font-size:35pt;
+	position:absolute;
+	top:0px;
+	left:450px;
+	right:0px;
+}
+
+
+.boss {
+	left:900px;
+	top:800px;
+	width:400px;
+	height:400px;
+	border:0px;
+	position:absolute;
+	background:url(obla.jpg) no-repeat; background-size:cover;
+}
+.kartinka {
+	left:900px;
+	top:300px;
+	width:400px;
+	height:400px;
+	border:0px;;
+	position:absolute;
+	background:url(obla1.jpg) no-repeat; background-size:cover;
+	text-align:left;
+	
+}
+
+.air {
+	position:absolute;
+	top:1225px;
+	right:100px;
+}
+.fix {
+	font-size:15pt;
+	position:absolute;
+	top:50px;
+	left:250px;
+	color:white;
+	top:50px;
+	left:100px;
+}
+.oks {
+	border:0px;
+	width:500px;
+	height:200px;
+	left:850px;
+	position:absolute;
+	top:75px;
+	background:url(0.jpg) no-repeat; background-size:cover;
+}
